@@ -3,7 +3,7 @@
 int main() {
     int applicants, qualified = 0;
     int i;
-    float gwa, totalGWA = 0, averageGWA;
+    float gwa, averageGWA, totalGWA = 0;
 
     printf("Enter number of applicants: ");
     scanf("%d", &applicants);
